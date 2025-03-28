@@ -46,7 +46,7 @@ export default function Home() {
         navigator.registerProtocolHandler(
           'magnet',
           `${window.location.origin}/?magnet=%s`,
-          'TorBox Manager',
+          'GBLK Manager',
         );
       } catch (error) {
         console.error('Failed to register protocol handler:', error);
