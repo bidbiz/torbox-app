@@ -20,8 +20,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: 'TorBox Manager',
-  description: 'TorBox Manager',
+  title: 'GBLK Manager',
+  description: 'GBLK Manager',
   manifest: '/manifest.json',
   appleWebAppCapable: 'yes',
   appleWebAppStatusBarStyle: 'black-translucent',
