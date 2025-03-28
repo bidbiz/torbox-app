@@ -1,7 +1,7 @@
 {
   "Index": {
-    "title": "TorBox Manager",
-    "description": "Torrent and Debrid Manager",
+    "title": "GBLK Manager",
+    "description": "ALL IN ONE DEBRID",
     "search": "Search",
     "searchPlaceholder": "Search torrents..."
   },
@@ -11,8 +11,8 @@
     "settings": "Settings"
   },
   "Header": {
-    "title": "TorBox Manager",
-    "logo": "TorBox Manager Logo",
+    "title": "GBLK Manager",
+    "logo": "GBLK Manager Logo",
     "theme": {
       "toggleDark": "Toggle dark mode",
       "toggleLight": "Toggle light mode"
@@ -25,8 +25,8 @@
     }
   },
   "LandingPage": {
-    "title": "TorBox Manager",
-    "subtitle": "The power user's alternative to TorBox UI. Built for speed and efficiency.",
+    "title": "GBLK Manager",
+    "subtitle": "The power user's alternative to GBLK UI. Built for speed and efficiency.",
     "features": {
       "batchUpload": {
         "title": "Batch Upload",
@@ -42,17 +42,17 @@
       }
     },
     "apiKeyInput": {
-      "title": "Enter TorBox API Key",
-      "description": "Find your API key at",
-      "link": "torbox.app/settings"
+      "title": "Enter GBLK API Key",
+      "description": "#",
+      "link": "#"
     },
     "footer": {
-      "description": "We don't store any of your information. This app is fully open source on",
+      "description": "No Doubt",
       "github": "GitHub"
     }
   },
   "ApiKeyInput": {
-    "placeholder": "Enter TorBox API Key",
+    "placeholder": "Enter GBLK API Key",
     "show": "Show API key",
     "hide": "Hide API key",
     "manageKeys": "Manage Keys"
@@ -366,15 +366,15 @@
     "actions": {
       "copyMagnet": "Copy Magnet",
       "copyLink": "Copy Link",
-      "addToTorbox": "Add to TorBox",
+      "addToGBLK": "Add to GBLK",
       "adding": "Adding...",
       "added": "Added"
     },
     "toast": {
       "magnetCopied": "Magnet link copied to clipboard",
       "nzbCopied": "NZB link copied to clipboard",
-      "torrentAdded": "Torrent added to TorBox successfully",
-      "nzbAdded": "NZB added to TorBox successfully",
+      "torrentAdded": "Torrent added to GBLK successfully",
+      "nzbAdded": "NZB added to GBLK successfully",
       "torrentAddFailed": "Failed to add torrent: {error}",
       "nzbAddFailed": "Failed to add NZB: {error}"
     },
