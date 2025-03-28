@@ -92,7 +92,7 @@ export default function LandingPage({ onKeyChange }) {
             <p className="mt-4 text-sm text-gray-400">
               {t('apiKeyInput.description')}{' '}
               <a
-                href="https://torbox.app/settings"
+                href="https://t.me/FORUM_IDFL"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-400 hover:text-blue-300 underline"
