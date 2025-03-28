@@ -106,7 +106,7 @@ export default function LandingPage({ onKeyChange }) {
             <p>
               {t('footer.description')}{' '}
               <a
-                href="https://github.com/jittarao/torbox-app"
+                href="https://t.me/FORUM_IDFL"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-400 hover:text-blue-300 underline"
