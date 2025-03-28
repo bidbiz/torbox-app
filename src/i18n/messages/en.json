@@ -26,19 +26,19 @@
   },
   "LandingPage": {
     "title": "GBLK Manager",
-    "subtitle": "The power user's alternative to GBLK UI. Built for speed and efficiency.",
+    "subtitle": "GBLK UI",
     "features": {
       "batchUpload": {
-        "title": "Batch Upload",
-        "description": "Upload multiple torrents with a single click"
+        "title": "Upload",
+        "description": "Single Click"
       },
       "search": {
-        "title": "Smart Search",
-        "description": "Search across multiple torrent sites"
+        "title": "Search",
+        "description": "Torrent and Usenet"
       },
       "debrid": {
-        "title": "Debrid Integration",
-        "description": "Seamless integration with debrid services"
+        "title": "Debrid",
+        "description": "Support Multi Host"
       }
     },
     "apiKeyInput": {
